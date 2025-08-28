@@ -16,5 +16,5 @@ This repo is my personal playground for learning and testing out different Strea
 ## 🔧 Setup & Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/streamlit-lab.git
+   git clone https://github.com/parveen-ml/streamlit-lab.git
    cd streamlit-lab
